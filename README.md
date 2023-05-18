@@ -5,8 +5,9 @@ Week5-6の提出クエストです
 [テーブル設計](https://silky-emery-b0e.notion.site/1-e925c1da35fc48bd8e7ea951beb77986)
 
 ## ステップ2
-- 任意のディレクトリでつぎのコマンドを実行する。  
- `git clone https://github.com/925rycki/internet_tv.git`
+- 任意のディレクトリでつぎのコマンドを実行し、クローンしたディレクトリに移動する。  
+ `git clone https://github.com/925rycki/internet_tv.git`   
+ `cd internet_tv`
 - dbコンテナを構築、起動し、コンテナの中に入る。  
   `docker compose up -d`   
   `docker compose exec db bash`   
