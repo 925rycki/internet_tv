@@ -6,7 +6,7 @@ Week5-6の提出クエストです
 
 ## ステップ2
 - 任意のディレクトリでつぎのコマンドを実行する。  
- `git clone https://github.com/925rycki/internet_tv`
+ `git clone https://github.com/925rycki/internet_tv.git`
 - dbコンテナを構築、起動し、コンテナの中に入る。  
   `docker compose up -d`   
   `docker compose exec db bash`   
